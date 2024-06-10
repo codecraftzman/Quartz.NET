@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8730C8-6E71-43B3-860A-EF5EAC6ADF32}|Quartz.Services\\Quartz.Services.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.services\\mockdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8730C8-6E71-43B3-860A-EF5EAC6ADF32}|Quartz.Services\\Quartz.Services.csproj|solutionrelative:quartz.services\\mockdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\shiftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\shiftschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\shifttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\shifttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\dispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\dispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A544297-2250-4AA6-9176-03E1ABF60F36}|Quartz.Repositories\\Quartz.Data.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.repositories\\context\\quartzdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A544297-2250-4AA6-9176-03E1ABF60F36}|Quartz.Repositories\\Quartz.Data.csproj|solutionrelative:quartz.repositories\\context\\quartzdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\disputereason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\disputereason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\activitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\activitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A544297-2250-4AA6-9176-03E1ABF60F36}|Quartz.Repositories\\Quartz.Data.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.repositories\\quartz.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A544297-2250-4AA6-9176-03E1ABF60F36}|Quartz.Repositories\\Quartz.Data.csproj|solutionrelative:quartz.repositories\\quartz.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|d:\\1. ibex connect\\quartz\\code\\quartz\\quartz.domain\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EFCF-3E30-4571-BD5F-F0573EE9EA8E}|Quartz.Domain\\Quartz.Domain.csproj|solutionrelative:quartz.domain\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShiftType.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\ShiftType.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\ShiftType.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\ShiftType.cs",
+              "RelativeToolTip": "Quartz.Domain\\ShiftType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:45:41.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DisputeReason.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\DisputeReason.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\DisputeReason.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\DisputeReason.cs",
+              "RelativeToolTip": "Quartz.Domain\\DisputeReason.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:21:31.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Status.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\Status.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Status.cs",
+              "RelativeToolTip": "Quartz.Domain\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:19:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dispute.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Dispute.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\Dispute.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Dispute.cs",
+              "RelativeToolTip": "Quartz.Domain\\Dispute.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:01:39.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockDataService.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Services\\MockDataService.cs",
+              "RelativeDocumentMoniker": "Quartz.Services\\MockDataService.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Services\\MockDataService.cs",
+              "RelativeToolTip": "Quartz.Services\\MockDataService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wEUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:40:38.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuartzDBContext.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Repositories\\Context\\QuartzDBContext.cs",
+              "RelativeDocumentMoniker": "Quartz.Repositories\\Context\\QuartzDBContext.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Repositories\\Context\\QuartzDBContext.cs",
+              "RelativeToolTip": "Quartz.Repositories\\Context\\QuartzDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:38:08.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActivityType.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\ActivityType.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\ActivityType.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\ActivityType.cs",
+              "RelativeToolTip": "Quartz.Domain\\ActivityType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:22:15.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Activity.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\Activity.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Activity.cs",
+              "RelativeToolTip": "Quartz.Domain\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:20:03.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShiftSchedule.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\ShiftSchedule.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\ShiftSchedule.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\ShiftSchedule.cs",
+              "RelativeToolTip": "Quartz.Domain\\ShiftSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:03:35.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Source.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\Source.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Source.cs",
+              "RelativeToolTip": "Quartz.Domain\\Source.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:51:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Session.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\Session.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Session.cs",
+              "RelativeToolTip": "Quartz.Domain\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:56:09.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Region.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\Region.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Region.cs",
+              "RelativeToolTip": "Quartz.Domain\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:04:41.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Quartz.Data.csproj",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Repositories\\Quartz.Data.csproj",
+              "RelativeDocumentMoniker": "Quartz.Repositories\\Quartz.Data.csproj",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Repositories\\Quartz.Data.csproj",
+              "RelativeToolTip": "Quartz.Repositories\\Quartz.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T19:47:00.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\Employee.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\Employee.cs",
+              "RelativeToolTip": "Quartz.Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:08:39.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "Quartz.Domain\\EmployeeType.cs",
+              "ToolTip": "D:\\1. Ibex Connect\\Quartz\\Code\\Quartz\\Quartz.Domain\\EmployeeType.cs",
+              "RelativeToolTip": "Quartz.Domain\\EmployeeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:01:52.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

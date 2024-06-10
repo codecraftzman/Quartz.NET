@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Quartz.Services/1.0.0": {
+        "dependencies": {
+          "Quartz.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Quartz.Services.dll": {}
+        }
+      },
+      "Quartz.Domain/1.0.0": {
+        "runtime": {
+          "Quartz.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quartz.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quartz.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

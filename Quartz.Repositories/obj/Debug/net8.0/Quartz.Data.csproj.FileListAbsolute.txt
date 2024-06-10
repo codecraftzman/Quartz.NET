@@ -1,0 +1,15 @@
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\bin\Debug\net8.0\Quartz.Data.deps.json
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\bin\Debug\net8.0\Quartz.Data.dll
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\bin\Debug\net8.0\Quartz.Data.pdb
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\bin\Debug\net8.0\Quartz.Domain.dll
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\bin\Debug\net8.0\Quartz.Domain.pdb
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\Quartz.Data.csproj.AssemblyReference.cache
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\Quartz.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\Quartz.Data.AssemblyInfoInputs.cache
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\Quartz.Data.AssemblyInfo.cs
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\Quartz.Data.csproj.CoreCompileInputs.cache
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\Quartz.D.5E39C8AA.Up2Date
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\Quartz.Data.dll
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\refint\Quartz.Data.dll
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\Quartz.Data.pdb
+D:\1. Ibex Connect\Quartz\Code\Quartz\Quartz.Repositories\obj\Debug\net8.0\ref\Quartz.Data.dll
